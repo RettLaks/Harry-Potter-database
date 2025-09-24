@@ -1,0 +1,35 @@
+body {
+    background-image: url(https://media.posterstore.com/site_images/68631b00603ad773cc39b736_806037358_WB0008-5.jpg?auto=compress%2Cformat&fit=max&w=1550);
+}
+#main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+img {
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px 10px rgba(0, 0, 0, 0.5);
+}
+table, td {
+    border: black 2px solid;
+    border-collapse: collapse;
+}
+td {
+    padding: 5px;
+}
+.hidden {
+    display: none;
+}
+td {
+    background-color: #a3b3ff;
+}
+.desc {
+    background-color: #9f0712;
+    color: white;
+}
+#feilMelding {
+    padding: 10px;
+    background-color: rgba(130, 0, 219, 0.6);
+    border-radius: 10px;
+}
