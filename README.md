@@ -1,7 +1,7 @@
 <h1 align="center">Harry Potter Database Søk</h1> 
 <div align="center"> 
     <h3> 
-        <a href="rettlaks.github.io/Harry-Potter-database/"> Lenken til siden 
+        <a href="https://rettlaks.github.io/Harry-Potter-database/"> Lenken til siden 
         </a> 
     </h3> 
 </div> 
